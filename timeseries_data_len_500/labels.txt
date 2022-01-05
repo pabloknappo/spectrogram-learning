@@ -1,0 +1,1 @@
+['data\\700rpm_inner_race_fault.wav', 'data\\700rpm_non_fault.wav', 'data\\700rpm_outter_race_fault.wav']
